@@ -69,11 +69,11 @@ fun TarjetaPresentacion() {
 
         Spacer(modifier = Modifier.height(24.dp))
 
-        FilaContacto(icono = R.drawable.ic_phone, texto = "55 9166 3086")
+        FilaContacto(icono = R.drawable.ic_phone, texto = "55 2002 9451")
         Spacer(modifier = Modifier.height(8.dp))
-        FilaContacto(icono = R.drawable.ic_email, texto = "brauliobermejo1@gmail.com")
+        FilaContacto(icono = R.drawable.ic_email, texto = "salma.garcia3bsec243@gmail.com")
         Spacer(modifier = Modifier.height(8.dp))
-        FilaContacto(icono = R.drawable.ic_link, texto = "https://www.instagram.com/_._brau_._?igsh=OWpyaWh3eDQyNHI3&utm_source=qr")
+        FilaContacto(icono = R.drawable.ic_link, texto = "https://www.instagram.com/salmitha_gm?igsh=MXc5bjRxNG5uNG9uMg==")
     }
 }
 
